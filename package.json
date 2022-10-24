@@ -24,7 +24,7 @@
     "@mediapipe/face_mesh": "^0.4.1633559619",
     "@msgpack/msgpack": "^2.7.2",
     "@originjs/vite-plugin-commonjs": "^1.0.3",
-    "@rollup/plugin-dynamic-import-vars": "^1.4.3",
+    "@rollup/plugin-dynamic-import-vars": "^2.0.1",
     "@techstark/opencv-js": "^4.5.5-release.2",
     "@tensorflow/tfjs": "^3.18.0",
     "@tensorflow/tfjs-backend-webgl": "^3.18.0",
